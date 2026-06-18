@@ -1,0 +1,5 @@
+# No third-party dependencies required.
+# sqlite3 is part of Python's standard library.
+
+# For running tests only:
+pytest>=7.0
